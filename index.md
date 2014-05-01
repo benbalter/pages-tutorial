@@ -1,5 +1,6 @@
 ---
 name: Ben
+layout: default
 ---
 
 # Hello world
